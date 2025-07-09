@@ -178,17 +178,6 @@ This uses `python-iptables` to add corresponding `iptables` rules dynamically.
 
 ---
 
-## 🙌 Contributing
-
-Contributions are welcome! To contribute:
-
-* Fork the repository
-* Create a new branch (`git checkout -b feature-name`)
-* Commit changes (`git commit -m "Add feature"`)
-* Push and open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -197,7 +186,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**\Matli Vishnu Vardhan Naidu**
+**Matli Vishnu Vardhan Naidu**
 [GitHub Profile](https://github.com/VishnuMatli) • [Email](mailto:matlikinnu@gmail.com)
 
 ---
