@@ -1,0 +1,22 @@
+2025-07-09 11:12:30,516 - INFO - Added rule: {'type': 'ip', 'value': '192.168.1.100', 'action': 'block', 'protocol': None, 'port': None}
+2025-07-09 11:12:30,516 - INFO - Added rule: {'type': 'port', 'value': 22, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:12:30,516 - INFO - Added rule: {'type': 'port', 'value': 80, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:12:30,516 - INFO - Added rule: {'type': 'port', 'value': 443, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:12:30,516 - INFO - Added rule: {'type': 'port', 'value': 3389, 'action': 'block', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:29,902 - INFO - Added rule: {'type': 'ip', 'value': '192.168.1.100', 'action': 'block', 'protocol': None, 'port': None}
+2025-07-09 11:15:29,903 - INFO - Added rule: {'type': 'port', 'value': 22, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:29,903 - INFO - Added rule: {'type': 'port', 'value': 80, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:29,903 - INFO - Added rule: {'type': 'port', 'value': 443, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:29,903 - INFO - Added rule: {'type': 'port', 'value': 3389, 'action': 'block', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:49,105 - INFO - Added rule: {'type': 'ip', 'value': '192.168.1.100', 'action': 'block', 'protocol': None, 'port': None}
+2025-07-09 11:15:49,106 - INFO - Added rule: {'type': 'port', 'value': 22, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:49,106 - INFO - Added rule: {'type': 'port', 'value': 80, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:49,106 - INFO - Added rule: {'type': 'port', 'value': 443, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:15:49,106 - INFO - Added rule: {'type': 'port', 'value': 3389, 'action': 'block', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:16:08,369 - INFO - Added rule: {'type': 'ip', 'value': '127.0.0.1', 'action': 'allow', 'protocol': 'tcp', 'port': 22}
+2025-07-09 11:16:23,771 - WARNING - iptables module not available (Linux only)
+2025-07-09 11:17:33,908 - INFO - Added rule: {'type': 'ip', 'value': '192.168.1.100', 'action': 'block', 'protocol': None, 'port': None}
+2025-07-09 11:17:33,909 - INFO - Added rule: {'type': 'port', 'value': 22, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:17:33,909 - INFO - Added rule: {'type': 'port', 'value': 80, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:17:33,909 - INFO - Added rule: {'type': 'port', 'value': 443, 'action': 'allow', 'protocol': 'tcp', 'port': None}
+2025-07-09 11:17:33,909 - INFO - Added rule: {'type': 'port', 'value': 3389, 'action': 'block', 'protocol': 'tcp', 'port': None}
